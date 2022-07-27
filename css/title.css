@@ -1,0 +1,41 @@
+
+h1{
+    background: #3e67ff;
+    text-align: center;
+    color: black;
+}
+h2{
+    background: rgb(35, 54, 88);
+    word-spacing: 5px;
+    color: black;
+    font-family: sans-serif;
+    height: 40px;
+    font-size: small;
+    text-align: center;
+    padding: 5px;
+}
+h4 {
+    background: darkcyan;
+    word-spacing: 5px;
+    color: white;
+    font-family: sans-serif;
+    height: 40px;
+    font-size: large;
+    text-align: center;
+    padding: 5px;
+}
+h5 {
+    word-spacing: 5px;
+    color: white;
+    font-family: sans-serif;
+    height: 30px;
+    font-size: large;
+    text-align: center;
+    padding: 5px;
+}
+h3{
+    background: rgb(252, 56, 56);
+    font-size: large;
+    text-align: center;
+    color: white;
+}

@@ -1,0 +1,43 @@
+html{
+    font-family: sans-serif;
+    background: url("../img_admin/backgroundLS.png");
+}
+
+#texte {
+    text-align: center;
+}
+p{
+    color: white;
+}
+td,
+th {
+    padding: 10px;
+    border: 2px rgb(86, 86, 86);
+    border-style: ridge none none none;
+}
+
+td {
+    text-align: center;
+}
+th[scope="col"] {
+    background: rgb(12, 24, 44);
+    color: #fff;
+    
+}
+table {
+    border-collapse: collapse;
+    letter-spacing: 1px;
+    font-size: .8rem;
+    background: rgb(12, 24, 44);
+    color: white;
+}
+
+
+.body a{
+    text-decoration: none;
+    color: currentColor;
+}
+.body a:visited {
+    text-decoration: none;
+    color: currentColor;
+}
